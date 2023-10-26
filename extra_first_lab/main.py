@@ -9,3 +9,4 @@ print("ФИО:", first_name, last_name)
 print("Год рождения:", age)
 print("Кто вы по городскопу:", horoscope)
 print("что вы ожидаете от курса?", question)
+
